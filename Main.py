@@ -16,6 +16,8 @@ import time
 #Sushi aklsdjfal;kjdfalksdfj
 # RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 
+# LDATEST 10/10/2023 12:00 PM
+
 class HelloWindow ( QMainWindow ) :
 
     def handleTimer(self) :
