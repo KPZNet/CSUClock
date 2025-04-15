@@ -7,6 +7,7 @@ from PyQt5.QtCore import QTimer
 import time
 
 #akdjfa;lkdsfj  M<XZCN>XMZcnc mxcn.MNXc.M
+# VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 # NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
 class HelloWindow ( QMainWindow ) :
