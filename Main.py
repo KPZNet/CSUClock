@@ -10,6 +10,8 @@ import time
 # VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 # NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
+#nnvmzxcnv  nzxcnvz.,mcnvz  nzxc,vnz,mcv
+
 class HelloWindow ( QMainWindow ) :
 
     def handleTimer(self) :
