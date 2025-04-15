@@ -12,6 +12,9 @@ import time
 
 #nnvmzxcnv  nzxcnvz.,mcnvz  nzxc,vnz,mcv
 
+
+# bbbbbbbbbbbbbbBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+
 class HelloWindow ( QMainWindow ) :
 
     def handleTimer(self) :
