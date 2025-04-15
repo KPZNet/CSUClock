@@ -6,7 +6,7 @@ from PyQt5.QtCore import QSize
 from PyQt5.QtCore import QTimer
 import time
 
-#akdjfa;lkdsfj
+#akdjfa;lkdsfj  M<XZCN>XMZcnc mxcn.MNXc.M
 
 class HelloWindow ( QMainWindow ) :
 
