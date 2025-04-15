@@ -7,6 +7,7 @@ from PyQt5.QtCore import QTimer
 import time
 
 #Sushi aklsdjfal;kjdfalksdfj
+# RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 
 class HelloWindow ( QMainWindow ) :
 
