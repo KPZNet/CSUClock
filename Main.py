@@ -15,6 +15,8 @@ import time
 
 # bbbbbbbbbbbbbbBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
+# 7777777777777777777777777777777777777777777777
+
 class HelloWindow ( QMainWindow ) :
 
     def handleTimer(self) :
