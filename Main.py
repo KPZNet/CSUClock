@@ -8,6 +8,8 @@ import time
 
 # BBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
+# LATEST 10
+
 class HelloWindow ( QMainWindow ) :
 
     def handleTimer(self) :
