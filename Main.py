@@ -22,6 +22,8 @@ import time
 
 # vvvvvvvvvvvvvvv Larest 
 
+# HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH MM
+
 class HelloWindow ( QMainWindow ) :
 
     def handleTimer(self) :
