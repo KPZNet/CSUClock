@@ -6,6 +6,9 @@ from PyQt5.QtCore import QSize
 from PyQt5.QtCore import QTimer
 import time
 
+# LATST UPDATE: 10:23
+
+
 # asdklfjalkdsfjalkdsfj
 
 #2322322323323232
