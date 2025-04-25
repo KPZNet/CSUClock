@@ -6,6 +6,10 @@ from PyQt5.QtCore import QSize
 from PyQt5.QtCore import QTimer
 import time
 
+
+
+#34343434
+
 # This is a comment
 
 # fakldsjflkajdf kwill shosp
