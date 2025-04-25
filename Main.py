@@ -6,6 +6,10 @@ from PyQt5.QtCore import QSize
 from PyQt5.QtCore import QTimer
 import time
 
+# asdklfjalkdsfjalkdsfj
+
+# eeeeeeeeerrrrrrrrreeeeeee
+
 #akdjfa;lkdsfj  M<XZCN>XMZcnc mxcn.MNXc.M
 # VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 # NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
