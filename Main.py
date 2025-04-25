@@ -6,6 +6,8 @@ from PyQt5.QtCore import QSize
 from PyQt5.QtCore import QTimer
 import time
 
+# akdjfaklsdjfaldskjfalskdjfal;ksdfj
+
 
 
 #34343434
