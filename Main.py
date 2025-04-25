@@ -6,6 +6,9 @@ from PyQt5.QtCore import QSize
 from PyQt5.QtCore import QTimer
 import time
 
+
+# adfasdfasdfa
+
 # akldsjfaklsdjfaklsjdf
 
 # 2023-10-26 10:26:00
