@@ -6,6 +6,8 @@ from PyQt5.QtCore import QSize
 from PyQt5.QtCore import QTimer
 import time
 
+# NEWERWER 1049
+
 
 # NEW branch, 10:28
 
