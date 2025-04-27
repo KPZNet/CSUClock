@@ -5,6 +5,8 @@ from PyQt5.QtWidgets import QMainWindow, QLabel, QGridLayout, QWidget
 from PyQt5.QtCore import QSize
 from PyQt5.QtCore import QTimer
 import time
+# K KAST
+
 
 # LATEST
 
