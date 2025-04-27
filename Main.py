@@ -6,6 +6,9 @@ from PyQt5.QtCore import QSize
 from PyQt5.QtCore import QTimer
 import time
 
+
+# 4
+
 # K LAST HIR
 
 
