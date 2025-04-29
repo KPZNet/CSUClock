@@ -7,8 +7,7 @@ from PyQt5.QtCore import QTimer
 import time
 
 
-
-#jhlkhkljh
+# kjhkhkhj
 
 #44434
 
