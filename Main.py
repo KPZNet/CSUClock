@@ -8,6 +8,9 @@ import time
 
 # new shtahs
 
+#jlakjdflajdflkajdl
+
+
 # 4
 
 # K LAST HIR
